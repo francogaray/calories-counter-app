@@ -1,3 +1,59 @@
+# Calories-counter-app
+
+Aplicación movil multiplataforma desarrollada con React Native CLI. 
+
+
+
+# Introducción
+
+Aplicación movil multiplataforma desarrollada con React Native CLI. Se trata de una app para registrar alimentos y el consumo de calorías diarias. Cuenta con una sección principal donde se
+muestra el consumo total, lo consumido hasta el momento  y el consumo restante de calorías.
+
+También cuenta con una sección donde mediante un formulario se pueden registrar las diferentes comidas, con su peso y calorías. 
+
+
+
+## Instalación
+
+Instala Nasa-pic-of-day-app con npm
+
+```bash
+  git clone https://github.com/francogaray/calories-counter-app.git
+  
+  cd calorie-counter-app
+
+  npm install
+
+  npm start
+```
+    
+## Tech Stack
+
+**Client:** React, ReactNative CLI.
+
+**Server:** Node Js.
+
+## Screenshots 
+
+ Ios:
+
+<img src="https://github.com/francogaray/calories-counter-app/assets/99786651/2f9149a4-ef4d-42c0-9d7b-aefcbe40f74c" alt="Screen Shot - iPhone SE (3rd generation)" width="300px">
+<img src="https://github.com/francogaray/calories-counter-app/assets/99786651/bc083180-df95-48d2-bd70-a65f67c062cd" alt="Screen Shot - iPhone SE (3rd generation)" width="300px">
+<img src="https://github.com/francogaray/calories-counter-app/assets/99786651/96d2038e-9e18-4dc3-8e6e-d0cdcac5e93b" alt="Screen Shot - iPhone SE (3rd generation)" width="300px">
+<img src="https://github.com/francogaray/calories-counter-app/assets/99786651/33e0cf5d-79fc-4769-b176-6425ce082966" alt="Screen Shot - iPhone SE (3rd generation)" width="300px">
+<img src="https://github.com/francogaray/calories-counter-app/assets/99786651/8c1ed00b-ef15-44e4-8715-b3d3e0e91c0e" alt="Screen Shot - iPhone SE (3rd generation)" width="300px">
+<img src="https://github.com/francogaray/calories-counter-app/assets/99786651/449e33f2-43e9-4475-b486-87ac0904debd" alt="Screen Shot - iPhone SE (3rd generation)" width="300px">
+<img src="https://github.com/francogaray/calories-counter-app/assets/99786651/92a5b218-b043-407e-b456-8fc1ecae3a12" alt="Screen Shot - iPhone SE (3rd generation)" width="300px">
+<img src="https://github.com/francogaray/calories-counter-app/assets/99786651/24eaa1fd-1ebc-41eb-8eb1-3067c94cd9e5" alt="Screen Shot - iPhone SE (3rd generation)" width="300px">
+
+
+## Authors
+
+- [@francogaray](https://github.com/francogaray)
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
